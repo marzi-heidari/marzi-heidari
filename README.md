@@ -5,6 +5,6 @@
 
 Interested in
 - 💻 &nbsp; Coding
-- 🤖 &nbsp; Machine Learning and NLP
+- 🤖 &nbsp; Machine Learning
 
 Nice to meet you!
